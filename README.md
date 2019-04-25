@@ -1,4 +1,4 @@
-# Receita App
+# Fluxo De Caixa App
 Aplicativo que faz o controle da entra de receitas e despesas do usuário.
 
 ## Screenshots
