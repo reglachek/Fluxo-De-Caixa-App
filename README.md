@@ -1,10 +1,10 @@
 # Receita App
-Aplicativo baseado no WhatsApp, esta primeira versão teve foco apenas nas funcionalidades e não no design do aplicativo.
+Aplicativo que faz o controle da entra de receitas e despesas do usuário.
 
 ## Screenshots
-| 1 | 2 | 3 |
+| <img src="src/assets/screenshots/screenshot.png" width="300"> | <img src="src/assets/screenshots/screenshot2.png" width="300"> | <img src="src/assets/screenshots/screenshot3.png" width="300"> |
 |---|---|---|
-| 4 | 5 | 6 |
+| <img src="src/assets/screenshots/screenshot.png4" width="300"> | <img src="src/assets/screenshots/screenshot.png5" width="300"> | <img src="src/assets/screenshots/screenshot6.png" width="300"> |
 
 ## As Tecnologias
 **React-Native** - http://facebook.github.io/react-native/
