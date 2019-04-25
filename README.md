@@ -1,5 +1,5 @@
 # Fluxo De Caixa App
-Aplicativo que faz o controle da entra de receitas e despesas do usuário.
+Aplicativo que faz o controle da entrada de receitas e despesas do usuário.
 
 ## Screenshots
 | <img src="src/assets/screenshots/screenshot.png" width="300"> | <img src="src/assets/screenshots/screenshot2.png" width="300"> | <img src="src/assets/screenshots/screenshot3.png" width="300"> |
